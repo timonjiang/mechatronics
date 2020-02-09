@@ -10,5 +10,5 @@ Mechatronics homework documentation
 ![Bell Prototype2](/week3/bell01.jpg)
 ![Bell Prototype2](/week3/bell02.jpg)
 ![Bell Prototype2](/week3/bell03.jpg)
-![Bell Prototype2](/week3/bell04.mov)
-![Bell Prototype2](/week3/bell05.mov)
+![Bell Prototype2](/week3/bell04.gif)
+![Bell Prototype2](/week3/bell05.gif)
