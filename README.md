@@ -12,3 +12,10 @@ Mechatronics homework documentation
 ![Bell Prototype2](/week3/bell03.jpg)
 ![Bell Prototype2](/week3/bell04.gif)
 ![Bell Prototype2](/week3/bell05.gif)
+
+
+# week 4
+![Bell Prototype2](/week4/mechanism.jpg)
+![Bell Prototype2](/week4/mercury-stepper-motor.jpg)
+![Bell Prototype2](/week4/stepper-motor-test1.gif)
+![Bell Prototype2](/week4/how-it-move.gif)
