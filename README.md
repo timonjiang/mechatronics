@@ -23,6 +23,7 @@ Mechatronics homework documentation
 
 # week 6
 ![Led_controlled_by_microphone_test1](/week6/Led_test.jpg)
+Video here:https://www.youtube.com/watch?v=Qpisgq7vYU0
 ![Led_controlled_by_microphone_test2](/week6/microphone_soundsensor_test_1.jpg)
 ![Led_controlled_by_microphone_test3](/week6/microphone_soundsensor_test_2.jpg)
 ![Prototyping1](/week6/Prototyping1.jpg)
